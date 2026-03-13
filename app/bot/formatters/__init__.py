@@ -1,0 +1,2 @@
+"""Bot response formatters."""
+

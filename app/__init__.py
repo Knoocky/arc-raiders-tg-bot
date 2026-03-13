@@ -1,0 +1,2 @@
+"""ARC Raiders bot package."""
+
